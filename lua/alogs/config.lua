@@ -16,8 +16,7 @@ alogs.conf.excluded_cmds = {
     "menu"
 }
 
--- time to wipe database
-alogs.conf.cleanup_days = 90
+alogs.conf.cleanup_days = 30
 -- bruh
 alogs.conf.use_mysql = false
 -- lang
