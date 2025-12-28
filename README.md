@@ -9,7 +9,10 @@ This addon can log any command executed through **SAM** or **ULX**.
 - Supports ULX and SAM admin mods
 - SQLite and MySQL database support
 - Multi-language support (English, Spanish)
+- 
+## Preview
 
+![ALogs Preview](https://raw.githubusercontent.com/zukkma/gmod-admin-logs/main/preview.png)
 
 ## Installation
 
